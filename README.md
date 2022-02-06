@@ -5,11 +5,17 @@ A program for learning about sequencing instructions designed for children 6 thr
 
 # Design Goals
 The main objective is to give students an understanding of sequencing instructions.
+
 -target ages 6 through 8
+
 -instructions use simple symbols
+
 -include concepts like **if** and **loop** structures
+
 -be cute enough to generate interest
+
 -be complete and functional enough for students to develop some sense of mastery
+
 -students can work freeform or with guided examples (the built-in examples are currently not great) 
 
 # Technology
