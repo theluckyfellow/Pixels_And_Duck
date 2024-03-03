@@ -6,7 +6,7 @@ A program for learning about sequencing instructions designed for children 6 thr
 # Design Goals
 The main objective is to give students an understanding of sequencing instructions.
 
--target ages 6 through 8
+-target ages 6 through 10
 
 -instructions use simple symbols
 
